@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AGPr</string>
+    <string name="none_paired">Ez dago gailurik enparejatuta</string>
+    <string name="select_device">Select a Bluetooth Device</string>
+    <string name="refresh">Refresh</string>
+    <string name="close">Close</string>
+</resources>

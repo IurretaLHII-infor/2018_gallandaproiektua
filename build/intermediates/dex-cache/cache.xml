@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sasiroot/.android/build-cache/7e2c406d35d3605a3d41c498c845a6b1ddbb5cbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/sasiroot/AndroidStudioProjects/AGPr/app/build/intermediates/pre-dexed/debug/classes_2065fc039ca9e8730810084bb9f684ca59653166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasiroot/.android/build-cache/992fd704c25a46fa8b06d41659010d0b61ff9291/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/sasiroot/AndroidStudioProjects/AGPr/app/build/intermediates/pre-dexed/debug/classes_3c131bc82b9aba8a7a72afbec6350448e9e4b921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasiroot/.android/build-cache/91d2fe453a3ee401a4a86ed28119905277e075df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/sasiroot/AndroidStudioProjects/AGPr/app/build/intermediates/pre-dexed/debug/classes_c92e129357589ac0826bbd834b2f511250769f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sasiroot/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.0-beta1/54d65d51b5ebec588a19b2384efb6395b5bf5b18/MPAndroidChart-v3.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="54d65d51b5ebec588a19b2384efb6395b5bf5b18">
+        <dex dex="/home/sasiroot/AndroidStudioProjects/AGPr/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v3.0.0-beta1_268b8073c2dc28edc63be6ef54b4ed4ecbc73471.jar" />
+    </item>
+
+</items>
